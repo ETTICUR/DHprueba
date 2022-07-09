@@ -1,1 +1,1 @@
-console.log ("Hola equipo")
+console.log ("Hola equipo, cómo va?")
